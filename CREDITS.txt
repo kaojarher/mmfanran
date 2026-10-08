@@ -1,0 +1,6 @@
+凡人修仙傳 · 天命之門
+程式：改編自使用者提供的《天命之門 v6》；3D：three.js r128 (MIT)；地圖：rot.js 2.2.0 (BSD-3)
+美術：使用者提供之 Gemini 生成像素圖資
+配樂：音檔請自行下載並依 audio/README.txt 放置。使用前請再次確認各頁面的授權：
+  CC0 免署名；CC-BY 需在此檔列出作者、曲名與連結。
+  已列入候選：Tozan、Shadowfire452、yd、Axem199（CC0）；Bobjt（CC-BY 3.0／CC0，請確認）。
